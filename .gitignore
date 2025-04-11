@@ -8,4 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Environment variable files
 ./src/multi_tool_agent/.env
